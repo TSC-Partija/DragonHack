@@ -28,10 +28,6 @@ body {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-.ugh:hover{
-  background-color: white;
-  color: #FF9000;
-}
 .offcanvas #page {
   overflow: hidden;
   position: absolute;
